@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+
+#puro {
+    color: #000000;
+    color: #F4F55; 
+    font-size:  24px;
+    
+    font-family: serif;    
+    line-height: 2em;
+    text-align: justify
+}
+
+a:hover {
+    font-size:  2em;
+}
+a:link {
+    color: aquamarine;
+}
+
+#新滝 {
+        color: steelblue;
+}
+
+#kirei{
+    color: crimson;
+}
+
+#mm {
+    background-color: aquamarine;
+    text-align: center;}
+h3{
+  text-align: center;
+    line-height:0
+}
